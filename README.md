@@ -6,6 +6,6 @@ pon
 =============UKRANIAN LANGUAGE===========
 пон
 =============POLAND LANGUAGE=============
-kurwa 
+kur...
 =========================================
                      <by perrritik>
